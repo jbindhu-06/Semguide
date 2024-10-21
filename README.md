@@ -12,4 +12,4 @@ For each subject, the platform includes detailed study guides, which outline imp
 5.User-friendly Interface:
 Designed with simplicity in mind, the platform features a clean and intuitive interface that is easy to navigate. Whether a freshman or a senior, any student can find what they need within a few clicks.
 6.Mobile-friendly Access:
-The website is optimized for mobile devices, ensuring that students can access materials anytime, anywhere, whether from a laptop, tablet, or smartphone.
+The website is optimized for mobile devices, ensuring that students can access materials anytime, anywhere, whether from a laptop, tablet, or smartphone. 
